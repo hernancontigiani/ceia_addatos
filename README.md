@@ -3,9 +3,11 @@ Repo Hernan Contigiani de Análisis de Datos de la carrera de Especialización d
 
 # Preparar el entorno
 Preparar e instalar entorno en Linux
+```
 $ virtualenv <env_name>
 $ source <env_name>/bin/activate
 (<env_name>)$ pip install -r requirements.txt
+```
 
 Preparar e instalar entorno en Windows
 ```
